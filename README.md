@@ -24,4 +24,9 @@ Terraform, Packer, Docker, Kubernetes, Teamcity, Ansible
 
 Более широкое использование имеющихся инструментов должно решить задачи девопс в проекте
 
-## Задача2 
+## Задача 2 
+Вывод terraform --version
+![image](https://user-images.githubusercontent.com/93075740/175263282-e0c223d7-a27f-4bd6-b486-549ef9aaebdc.png)
+## Задача 3
+Вывод terraform --version
+![image](https://user-images.githubusercontent.com/93075740/175263302-c7cc7d72-fe14-4b49-bc5d-ce3230a7b40c.png)
